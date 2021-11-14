@@ -2,9 +2,7 @@
 using namespace std;
 
 int main(){
-	/*Alfa Rizki Fadlillah
-		Post Test Kelas C
-		2117051003*/
+	/*Alfa Rizki Fadlillah*/
 	
 	string nama1;
 	string nama2;
