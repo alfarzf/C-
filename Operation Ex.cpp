@@ -1,10 +1,7 @@
 #include <iostream>
 using namespace std;
 
-	/*Alfa Rizki Fadlillah
-		2117051003
-			Post Test 2
-				*/
+	/*Alfa Rizki Fadlillah*/
 	
 int main(){
 	float a, b, c, d;
@@ -28,4 +25,3 @@ int main(){
 	<<"Harga 3 Buah Penggaris\t: Rp."<<d*3<<endl;
 	return 0;
 }
-
