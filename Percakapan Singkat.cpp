@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+	
 	//Alfa Rizki Fadlillah
 	
 	string nama1;
