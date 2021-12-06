@@ -1,7 +1,5 @@
 #include <iostream>
 using namespace std;
-
-	//Alfa Rizki Fadlillah
 	
 int main(){
 	float a, b, c, d;
