@@ -1,7 +1,7 @@
 #include <iostream>
 #include <ncurses.h>
 using namespace std;
-//Contoh sorting bilangan
+
 int main(){
 	int n;
 	int temp=0;
