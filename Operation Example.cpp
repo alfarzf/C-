@@ -14,7 +14,6 @@ int main(){
 	cout<<"Harga Sebuah Penggaris\t: ";
 	cin>>d;
 	
-	//output
 	cout
 	<<endl
 	<<"Harga 3 Buah Pena\t: Rp."<<a*3<<endl
