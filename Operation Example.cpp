@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 	float a, b, c, d;
 	
-	//input
+	
 	cout<<"Harga Sebuah Pena\t: ";
 	cin>>a;
 	cout<<"Harga Sebuah Buku\t: ";
